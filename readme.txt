@@ -1,7 +1,7 @@
 ===Echodyne Theme===
 Author: Miguel Khoury
 Author URI: http://www.banyanstudio.net
-Description: Bootstrap v.3 basic theme. For build new theme based on Bootstrap.
+Description: Bootstrap v.3 basic theme. For building new themes based on Bootstrap.
 Text Domain: bootstrap-basic
 Domain Path: /languages/
 Tags: white, gray, light, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-menu, featured-images, front-page-post-form, post-formats, threaded-comments, translation-ready
